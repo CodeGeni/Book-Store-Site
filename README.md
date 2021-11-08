@@ -1,2 +1,3 @@
 # Book-Store-Site
-Looking to make a nice book store site. I will use php for back end. Feel free to help out or ask questions.
+
+I will make a nice looking book store site. Feel free to contribute. No need to prioritize any computer languages. 
